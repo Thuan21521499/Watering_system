@@ -1,8 +1,8 @@
 # Watering_system
-Using Blynk connected to an ESP32 to created a simple waterring system.
+Using Blynk connected to an ESP32 to create a simple watering system.
 
 The system has 2 modes:
--Auto mode: Using the value from sensor to control the pump.
--Manual mode: User control the pump.
+-Auto mode: Using the value from sensors to control the pump.
+-Manual mode: Users control the pump.
 
-User can change the mode of the system in Blynk UI.
+Users can change the mode of the system in Blynk UI.
